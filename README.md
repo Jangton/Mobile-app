@@ -29,6 +29,7 @@ jquery moblie은 전체 html파일에 사용
 ##bulma를 사용한 인적사항 제작
 <img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%EC%9D%B8%EC%A0%81%EC%82%AC%ED%95%AD.JPG" width="300" height="500">
 <br>
+<br>
 <img src="https://github.com/Jangton/Mobile-app/blob/main/%EB%AA%A8%EB%B0%94%EC%9D%BC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%EC%9D%B8%EC%A0%81%EC%82%AC%ED%95%AD%20%EC%BD%94%EB%93%9C.JPG" width="300" height="500">
 <br>
 ##uikit을 이용한 개인프로젝트 제작
