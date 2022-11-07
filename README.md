@@ -33,8 +33,8 @@ jquery moblie은 전체 html파일에 사용
 <br>
 <img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%EC%9D%B8%EC%A0%81%EC%82%AC%ED%95%AD%20%EC%BD%94%EB%93%9C.JPG" width="300" height="500">
 <br>
-<br>
 ##uikit을 이용한 개인프로젝트 제작
+<br>
 <img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.JPG" width="300" height="500">
 <br>
 <img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%BD%94%EB%93%9C.JPG" width="300" height="500">
