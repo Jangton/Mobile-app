@@ -26,6 +26,7 @@ mcontent.html - materialize
 <br>
 jquery moblie은 전체 html파일에 사용
 <br>
+<br>
 ##bulma를 사용한 인적사항 제작
 <br>
 <img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%EC%9D%B8%EC%A0%81%EC%82%AC%ED%95%AD.JPG" width="300" height="500">
