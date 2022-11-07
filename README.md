@@ -2,7 +2,7 @@
 카카오 회사 소개 앱
 <br>
 #모바일 포트폴리오
-<img src="https://github.com/Jangton/Mobile-app/blob/main/%EB%AA%A8%EB%B0%94%EC%9D%BC%20%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/intro.JPG" width="300" height="500">
+<img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/intro%20%EB%B6%80%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%9E%A9.JPG" width="300" height="500">
 <br>
 
 ## 적용한 cssFramwork
