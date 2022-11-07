@@ -45,5 +45,5 @@ jquery moblie은 전체 html파일에 사용
 <br>
 ##echart를 이용하여 나의 실력 평가해보기
 <br>
-<img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%EC%B0%A8%ED%8A%B8.JPG" width="300" height="500">
+<img src="https://github.com/Jangton/Mobile-app/blob/main/%EC%97%A0%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%82%AC%EC%A7%84/%EC%B0%A8%ED%8A%B8.JPG" width="300" height="400">
 <br>
